@@ -96,7 +96,7 @@ def html_brand():
         isi_logo = '<div class="brand-logo">TS</div>'
     return (
         f'<div class="brand">{isi_logo}'
-        '<span class="brand-nama">eMwaY Tracer</span>'
+        '<span class="brand-nama">Tracer Studi</span>'
         '<span class="brand-sub">Universitas Sriwijaya</span></div>'
     )
 
